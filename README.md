@@ -1,4 +1,4 @@
 # shreya-demo
 This is my first Git Repository.
 <br>
-Auther - Shreya Kongari (student2)
+Auther - Shreya Kongari (student)
